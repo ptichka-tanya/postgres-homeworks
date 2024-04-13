@@ -1,1 +1,1 @@
-PSWD = "1908@Nfyz!newlife"
+PSWD = 'your_password_for_postgres'
