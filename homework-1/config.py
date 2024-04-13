@@ -1,1 +1,1 @@
-PSWD = "your_password_for_postgres"
+PSWD = 'your_password_for_postgres'
